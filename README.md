@@ -2,9 +2,10 @@
 technology for good，use deep learning model to mosaic nude model precisely automaticly
 
 # Motivation
-  several months ago,[DeepNude](https://github.com/stacklikemind/deepnude_official) project is very popular. it's fancy but can be used evil.
-  As I'm working on recognizing nude/porn/vulgar image project, I developed several deep models which have achieve pretty good precise. 
-  Meanwhile, these model can be used to mosaic nude picture due to the activation feature maps can concentrate on the nude region. For Technology good, I developed a harmony algorithm to anti-deepnude.
+ several months ago,[DeepNude](https://github.com/stacklikemind/deepnude_official) project is very popular. it's fancy but can be used evil.  
+ As I'm working on recognizing nude/porn/vulgar image project, I developed several deep models which have achieve pretty good precise.   
+Meanwhile, these model can be used to mosaic nude picture due to the activation feature maps can concentrate on the nude region.   
+For Technology good, I developed a harmony algorithm to anti-deepnude.
  
 # How to mosaic with different region area
    modify two parameters: *weight1* and  *weight2*  
