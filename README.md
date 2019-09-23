@@ -17,5 +17,5 @@ technology for good，use deep learning model to mosaic nude model precisely aut
  
 #Some mosaic Example
 ![example1](https://github.com/1093842024/anti-deepnude/blob/master/results/0_anti_deepnude.jpg)
-![example2](https://github.com/1093842024/anti-deepnude/blob/master/results/1_anti_deepnude.jpg)
+
 ![example3](https://github.com/1093842024/anti-deepnude/blob/master/results/2_anti_deepnude.jpg)
