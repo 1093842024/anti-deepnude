@@ -21,3 +21,6 @@ def general_harmony(self,imgpil,weight1=1.0,weight2=0):
 ![example1](https://github.com/1093842024/anti-deepnude/blob/master/results/0_anti_deepnude.jpg)
 
 ![example3](https://github.com/1093842024/anti-deepnude/blob/master/results/2_anti_deepnude.jpg)
+
+# TODO
+combine humandet model human-keypoints model and human-segmentation model can get more accuracy results!
