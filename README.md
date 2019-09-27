@@ -1,5 +1,5 @@
 # anti-deepnude
-基于NSFW的一些开源工作的启发，自行开发了精度更高的色情识别模型，并将模型用于色情图像的自动打码。  
+基于NSFW的一些开源工作的启发，开发了精度更高的色情识别模型，并将模型用于色情图像的自动打码。  
 technology for good，use deep learning model to mosaic nude model precisely automaticly
 
 # Motivation
